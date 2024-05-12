@@ -1,7 +1,7 @@
 MDK-ARM/Charjabug.uvguix.11478
 .vscode/*
-# 忽略 MDK-ARM/Charjabug目录下所有文件
-MDK-ARM/Charjabug/*
+# 忽略 MDK-ARM/output目录下所有文件
+MDK-ARM/output/*
 
 # 不忽略 .crf文件
-!MDK-ARM/Charjabug/*.crf
+!MDK-ARM/output/*.crf
