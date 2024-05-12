@@ -4,4 +4,4 @@ MDK-ARM/Charjabug.uvguix.11478
 MDK-ARM/output/*
 
 # 不忽略 .crf文件
-!MDK-ARM/output/*.crf
+#!MDK-ARM/output/*.crf

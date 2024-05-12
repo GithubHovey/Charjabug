@@ -11,7 +11,7 @@
  *********************/
 #include "lv_port_disp_template.h"
 #include "../../lvgl.h"
-#include "drivers/oled/oled.h" 
+#include "Drivers/oled/oled.h" 
 /*********************
  *      DEFINES
  *********************/
